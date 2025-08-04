@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there my name is YASH👋
 
-<!--
-**yash21-git/yash21-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on public policy analytics projects involving inequality decomposition, macroeconomic forecasting, and customer behavior analysis as a Research Intern at RBI, Mumbai.
 
-Here are some ideas to get you started:
+Currently learning advanced data visualization with Tableau and generative AI tools for policy applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+looking to collaborate on impactful data-driven research in economics, digital inclusion, or civic tech.
+
+Ask me about SQL, Stata, Python (pandas, statsmodels), policy evaluation, or data storytelling!
+
+⚡ Fun fact: I once cleaned over 1 million rows of messy household consumption data just for fun—and visualized it over coffee!
+
+### 📂 Featured Projects
+
+- [📊 Customer Behavior Analytics (SQL + Tableau)]()  
+- [📉 HCES-based Inequality Study]()  
+- [📈 ARIMA Forecasting on Forex Reserves]()  
+- [🤖 GenAI for Policy Automation]()
+
+ 
+📬 Let’s connect: [linkedin.com/in/yashprof](https://linkedin.com/in/yashprof)
+
