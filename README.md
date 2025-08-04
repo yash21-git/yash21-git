@@ -12,10 +12,10 @@ Ask me about SQL, Stata, Python (pandas, statsmodels), policy evaluation, or dat
 
 ### 📂 Featured Projects
 
-- [📊 Customer Behavior Analytics (SQL + Tableau)]()  
-- [📉 HCES-based Inequality Study]()  
-- [📈 ARIMA Forecasting on Forex Reserves]()  
-- [🤖 GenAI for Policy Automation]()
+- [📊Customer Behavior Analytics (SQL + Tableau)](https://github.com/yash21-git/customer-Analytics-using-SQL)  
+- [ HCES-based Inequality Study](https://github.com/yash21-git/Sales-Analysis-Database)  
+- [Hospitality(hotel) performance dashboard] (https://github.com/yash21-git/Hospitality-Performance-power-BI-dashboard)
+- [Diversity inclusion HR dashboard] (https://github.com/yash21-git/Diversity-Inclusion-HR-dashboard.git)
 
  
 📬 Let’s connect: [linkedin.com/in/yashprof](https://linkedin.com/in/yashprof)
