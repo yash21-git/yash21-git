@@ -12,6 +12,7 @@ Ask me about SQL, Stata, Python (pandas, statsmodels), policy evaluation, or dat
 
 ### 📂 Featured Projects
 
+- [Customer Segmentation Analysis] https://github.com/yash21-git/customer-segmentation-project
 - [📊Customer Behavior Analytics (SQL + Tableau)](https://github.com/yash21-git/customer-Analytics-using-SQL)  
 - [ HCES-based Inequality Study](https://github.com/yash21-git/Sales-Analysis-Database)  
 - [Hospitality(hotel) performance dashboard] (https://github.com/yash21-git/Hospitality-Performance-power-BI-dashboard)
