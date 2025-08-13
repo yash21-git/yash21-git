@@ -11,7 +11,7 @@ Ask me about SQL, Stata, Python (pandas, statsmodels), policy evaluation, or dat
 ⚡ Fun fact: I once cleaned over 1 million rows of messy household consumption data just for fun—and visualized it over coffee!
 
 ### 📂 Featured Projects
-
+_ [https://github.com/yash21-git/inflation-unemployment-India] - Time series Modelling using real world inflation and unemployment data
 - [Customer Segmentation Analysis] https://github.com/yash21-git/customer-segmentation-project
 - [📊Customer Behavior Analytics (SQL + Tableau)](https://github.com/yash21-git/customer-Analytics-using-SQL)  
 - [ HCES-based Inequality Study](https://github.com/yash21-git/Sales-Analysis-Database)  
