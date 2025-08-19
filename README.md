@@ -1,21 +1,33 @@
-## Hi there my name is YASH👋
+## Hey, I am Yash👋
 
-I’m currently working on public policy analytics projects involving inequality decomposition, macroeconomic forecasting, and customer behavior analysis as a Research Intern at RBI, Mumbai.
-Currently learning advanced data visualization with Tableau and generative AI tools for policy applications.
-looking to collaborate on impactful data-driven research in economics, digital inclusion, or civic tech.
-Ask me about SQL, Stata, Python (pandas, statsmodels), policy evaluation, or data storytelling!
+🎯 **Data Analyst | SQL • Python • Tableau | Economics & Finance**  
 
+I combine **economics research** with **hands-on analytics** to solve real-world data problems.  
+Currently at the **Reserve Bank of India (RBI), Mumbai**, where I work on **macroeconomic forecasting, inequality decomposition, and consumer behavior analysis**.  
 
-⚡ Fun fact: I once cleaned over 1 million rows of messy household consumption data just for fun—and visualized it over coffee!
+💡 Passionate about transforming messy datasets into **business-ready insights**.  
+📊 Skilled in **SQL, Python (pandas, statsmodels), Tableau, and Stata**.  
+⚡ *Fun fact*: I once cleaned **1M+ rows of household data** and visualized it over coffee ☕.  
 
-### 📂 Featured Projects
-_ [https://github.com/yash21-git/inflation-unemployment-India] - Time series Modelling using real world inflation and unemployment data
-- [Customer Segmentation Analysis] https://github.com/yash21-git/customer-segmentation-project
-- [📊Customer Behavior Analytics (SQL + Tableau)](https://github.com/yash21-git/customer-Analytics-using-SQL)  
-- [ HCES-based Inequality Study](https://github.com/yash21-git/Sales-Analysis-Database)  
-- [Hospitality(hotel) performance dashboard] (https://github.com/yash21-git/Hospitality-Performance-power-BI-dashboard)
-- [Diversity inclusion HR dashboard] (https://github.com/yash21-git/Diversity-Inclusion-HR-dashboard.git)
+### 📂 Featured Projects  
 
- 
-📬 Let’s connect: [linkedin.com/in/yashprof](https://linkedin.com/in/yashprof)
+#### 🔹 [Customer Behavior Analytics (SQL + Tableau)](https://github.com/yash21-git/customer-Analytics-using-SQL)  
+Analyzed 50K+ e-commerce transactions with SQL, built Tableau dashboards for **sales, retention, and purchase behavior insights** → enabling data-driven marketing decisions.  
+
+#### 🔹 [Customer Segmentation (Python)](https://github.com/yash21-git/customer-segmentation-project)  
+Applied clustering (K-Means) on retail data to identify **high-value vs. price-sensitive groups**, supporting **targeted promotions and ROI growth**.  
+
+#### 🔹 [Inflation–Unemployment in India (Time Series)](https://github.com/yash21-git/inflation-unemployment-India)  
+Built ARIMA & regression models on India’s inflation and unemployment data → explored **Phillips Curve dynamics** with direct policy/finance implications.  
+
+#### 🔹 [Sales-Analysis-database](https://github.com/yash21-git/Sales-Analysis-Database)  
+SQL project analyzing sales, people, product, and geography data for a hypothetical chocolate company — covering joins, aggregations, filters, case logic, and subqueries.
+
+### 🛠 Practice Dashboards (Tableau / Power BI)  
+- [Hospitality Performance Dashboard](https://github.com/yash21-git/Hospitality-Performance-power-BI-dashboard) – Revenue & occupancy trends.  
+- [HR Diversity & Inclusion Dashboard](https://github.com/yash21-git/Diversity-Inclusion-HR-dashboard) – Workforce demographics & DEI metrics.  
+
+### 📬 Let’s Connect  
+🔗 [linkedin.com/in/yashprof](https://linkedin.com/in/yashprof)  
+
 
