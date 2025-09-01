@@ -9,6 +9,8 @@ Currently at the **Reserve Bank of India (RBI), Mumbai**, where I work on **macr
 📊 Skilled in **SQL, Python (pandas, statsmodels), Tableau, and Stata**.  
 ⚡ *Fun fact*: I once cleaned **1M+ rows of household data** and visualized it over coffee ☕.  
 
+Check out my resume : https://flowcv.com/resume/b395gbbfogcd
+
 ### 📂 Featured Projects  
 
 #### 🔹 [Customer Behavior Analytics (SQL + Tableau)](https://github.com/yash21-git/customer-Analytics-using-SQL)  
